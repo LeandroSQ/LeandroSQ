@@ -11,7 +11,7 @@ Want to get in touch?
 #
 ### A few things to know about me...
 ```javascript
-const lucas = {
+const myself = {
 	name: "Leandro Soares Quevedo",
 	pronouns: "He" | "Him",
 	languages: ["Typescript", "Javascript", "Java", "Kotlin", "C#",  "Lua", "Python"],
