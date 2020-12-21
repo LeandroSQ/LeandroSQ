@@ -1,6 +1,6 @@
 
 # Hi, I'm Leandro Soares Quevedo
-Fullstack engineer at [X5 Soluções](http://www.x5s.com.br)
+Senior Android Enginner at [Zallpy](https://zallpy.com/)
 
 Want to get in touch?
 
