@@ -1,6 +1,6 @@
 
 # Hi, I'm Leandro Soares Quevedo
-Senior Android Enginner at [Zallpy](https://zallpy.com/)
+Senior ![Android](https://img.shields.io/badge/Android-green.svg?logo=Android&logoColor=white) Enginner at [Zallpy](https://zallpy.com/)
 
 Want to get in touch?
 
@@ -10,6 +10,7 @@ Want to get in touch?
 
 #
 ### A few things to know about me...
+
 ```javascript
 const myself = {
 	name: "Leandro Soares Quevedo",
