@@ -1,14 +1,16 @@
 # Hi, I'm Leandro Soares Quevedo
 
-Senior Android Enginner at  <a href="https://zallpy.com/"><img src="https://www.vagasfloripa.com.br/wp-content/uploads/company_logos/2019/01/zallpy_group_logo_home-1.png" width="48">
+Senior Android Enginner at <a href="https://zallpy.com/">Zallpy digital <img src="https://zallpy.com/images/favicons/favicon-32x32.png" width="14">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosoaresquevedo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroquevedo/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeandroSQ101)
 	
 ## A little bit about me
 I'm passionated about technology, had my first contact with programming at 7 and since then found my profession that would be a great part of my life.
 Working mainly with Android and JavaScript development, but having no restrictions about technologies. 
 Since programming is not only my job but my hobby as well, I tend to do variety of projects using a variety of stacks.
 
-### A few things to know about me...
 #
+### A few things to know about me...
 ```javascript
 const myself = {
 	name: "Leandro Soares Quevedo",
@@ -19,6 +21,7 @@ const myself = {
 }
 ```
 
+# 
 
 ## What I'm into
 ####  Android development
@@ -35,10 +38,6 @@ const myself = {
 
 #### Misc
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-## Want to get in touch?
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosoaresquevedo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroquevedo/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeandroSQ101)
 
 #
 ### A bit of what I do here...
