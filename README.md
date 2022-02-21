@@ -1,6 +1,6 @@
 # Hi, I'm Leandro Soares Quevedo
-
-Senior Android Enginner at <a href="https://zallpy.com/">Zallpy digital <img src="https://zallpy.com/favicon.ico" width="14">
+Software Engineer at&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/Microsoft-00A2ED?style=flat&logo=microsoft&logoColor=white">
+ 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosoaresquevedo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroquevedo/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeandroSQ101)
 	
