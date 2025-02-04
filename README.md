@@ -5,9 +5,8 @@ Software Engineer at&nbsp;&nbsp;<img align="center" src="https://img.shields.io/
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosoaresquevedo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroquevedo/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeandroSQ101)
 	
 ## A little bit about me
-I'm passionated about technology, had my first contact with programming at 7 and since then found my profession that would be a great part of my life.
-Working mainly with Android and JavaScript development, but having no restrictions about technologies. 
-Since programming is not only my job but my hobby as well, I tend to do variety of projects using a variety of stacks.
+I'm passionate about technology, had my first contact with programming at the ae of 7 and since then found my profession which is a great part of my life.
+Working mainly with AI, C#, Android and JavaScript development, but having no restrictions about technologies since programming is not only my job but my hobby, I tend to do variety of projects using a variety of stacks.
 
 #
 ### A few things to know about me...
@@ -15,9 +14,9 @@ Since programming is not only my job but my hobby as well, I tend to do variety 
 const myself = {
 	name: "Leandro Soares Quevedo",
 	pronouns: "He" | "Him",
-	misc: ["Micro-services", "Compilers and Interpreters"],
+	misc: ["Game dev", "Compilers and Interpreters"],
 	interests: ["Coding", "Coca-cola", "Singing", "Playing guitar", "Automation"],
-	currently_studying: ["Android compose", "Kubernetes", "Clean arch", "UX design"]
+	currently_studying: ["Godot", "Blender", "UX design"]
 }
 ```
 
