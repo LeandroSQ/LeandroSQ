@@ -74,7 +74,3 @@ const leandro = {
 </div>
 
 </div>
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLeandroSQ%26theme%3Dtokyonight%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue" alt="LeandroSQ Stats" />
-
-</div>
