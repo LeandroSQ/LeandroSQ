@@ -41,16 +41,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
           path: .github/pin.svg
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&count_private=true
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate gist card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: gist
-          options: username=readme-tools&repo=github-readme-stats
           path: .github/gist.svg
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&count_private=true
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit and Push
