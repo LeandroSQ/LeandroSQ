@@ -64,16 +64,14 @@ const leandro = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=LeandroSQ&theme=tokyonight&show_icons=true&count_private=true" alt="LeandroSQ GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeandroSQ&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=LeandroSQ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src=".github/stats.svg" alt="Leandro's Stats" />
+  <br/>
+  <img src=".github/languages.svg" alt="Top Languages" />
+  <br/>
+  <img src=".github/pin.svg" alt="Pin" />
+  <br/>
+  <img src=".github/gist.svg" alt="Gist" />
+</div>
 
 </div>
 
