@@ -37,13 +37,13 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=tokyonight&layout=compact&langs_count=6
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          path: .github/pin.svg
-          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&count_private=true
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate pin card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     path: .github/pin.svg
+      #     options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&count_private=true
+      #     token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate gist card
         uses: readme-tools/github-readme-stats-action@v1
