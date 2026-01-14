@@ -24,11 +24,19 @@ jobs:
       - name: Generate Top Langs Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages.svg
+          card: top-langs          
           path: .github/languages.svg
           options: username=${{ github.repository_owner }}&theme=tokyonight&layout=compact&langs_count=6
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          
+      - name: Generate wakatime Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime   
+          path: .github/wakatime.svg
+          options: username=${{ github.repository_owner }}&theme=tokyonight&layout=compact&langs_count=6
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
