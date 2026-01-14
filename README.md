@@ -67,10 +67,6 @@ const leandro = {
   <img src=".github/stats.svg" alt="Leandro's Stats" />
   <br/>
   <img src=".github/languages.svg" alt="Top Languages" />
-  <br/>
-  <img src=".github/pin.svg" alt="Pin" />
-  <br/>
-  <img src=".github/gist.svg" alt="Gist" />
 </div>
 
 </div>
